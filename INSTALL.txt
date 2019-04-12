@@ -1,0 +1,9 @@
+Pour lancer l'application de la HealBox, veuillez simplement
+lancer le fichier Interface.jar
+
+Si cela ne fonctionne pas, veuillez ouvrir l'invite de commande,
+utiliser la commande "cd" pour aller dans le fichier ou se 
+trouve l'exécutable Interface.jar, et taper la ligne de code
+suivante:
+
+java -jar Interface.jar
